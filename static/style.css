@@ -1,0 +1,13 @@
+
+h1 {
+    color:rgb(33, 18, 170);
+    text-align: center;
+}
+body {
+    background-image: url("pretty.jpg");
+    background-color: #cccccc;
+    font-family: "Times New Roman", Times, serif;
+    margin:50px 0; 
+    padding:0;
+    text-align:center;
+   }
